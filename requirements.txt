@@ -1,0 +1,6 @@
+torch==2.2.2
+ipykernel
+torchvision
+numpy<2
+transformers
+matplotlib
